@@ -4,4 +4,4 @@ In this project, I'm following this online course : https://www.youtube.com/watc
 
 Population learning to walk without falling:
 
-![alt text](https://github.com/ybendou/Genetic_Algo_Unity/tree/master/Ethan_Walk_Challenge/EthanWalking.png)
+![alt text](https://github.com/ybendou/Genetic_Algo_Unity/blob/master/Ethan_Walk_Challenge/EthanWalking.PNG)
