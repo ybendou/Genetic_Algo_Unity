@@ -1,6 +1,5 @@
 # Reinforcement Learning on Unity
 Unity Projects in C# where I implement Reinforcement Learning and Genetic Algorithm using Unity
-In this project, I'm following this online course : https://www.youtube.com/watch?v=rUxO1y2XiHs&t=3160s
 
 Population learning to walk without falling:
 
